@@ -49,7 +49,7 @@ GIT_LFS_SKIP_SMUDGE=1 git clone ...
 
 ## Stay in touch with Fritz AI
 
-To keep tabs on what we’re up to, and for an inside look at the opportunities, challenges, and tools for mobile machine learning, subscribe to the [Fritz AI Newsletter](https://www.fritz.ai/newsletter?utm_campaign=fritz-models&utm_source=github)
+To keep tabs on what we’re up to, and for an inside look at the opportunities, challenges, and tools for mobile machine learning, subscribe to the [Fritz AI Newsletter](https://www.fritz.ai/newsletter?utm_campaign=fritz-models&utm_source=github).
 
 ## Join the community
 
