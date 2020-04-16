@@ -6,9 +6,9 @@ Models in this repository contain code and utilities for training models as well
 
 ## Fritz AI
 
-Fritz AI helps you teach your applications how to see, hear, feel, think, and sense. Create ML-powered features in your mobile apps for both Android and iOS. Start with our ready-to-use feature APIs or connect and deploy your own custom models.
+Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think. Get started quickly with [our pre-trained APIs](https://www.fritz.ai/product/pretrained.html?utm_source=github&utm_campaign=fritz-models, or use [our end-to-end platform](https://www.fritz.ai/product/platform.html?utm_source=github&utm_campaign=fritz-models) to build and deploy your own custom models.
 
-[Sign up](https://app.fritz.ai/register?utm_source=github&utm_campaign=fritz-models) for an account on Fritz AI in order to get started with machine learning in your apps.
+If you're ready to start building mobile apps powered by ML, [sign up](https://www.fritz.ai/pricing/?utm_source=github&utm_campaign=fritz-models) for a free Fritz AI account.
 
 ## Models
 
@@ -25,17 +25,6 @@ Don't see the model you're looking for? Open an issue and let us know!
 To see live demonstrations of these models running on-device, the Heartbeat App is available in both the [App Store](https://itunes.apple.com/us/app/heartbeat-by-fritz/id1325206416?mt=8) ([source code](https://github.com/fritzlabs/heartbeat-ios)) and [Play Store](https://play.google.com/store/apps/details?id=ai.fritz.heartbeat) ([source code](https://github.com/fritzlabs/heartbeat-android)).
 
 If you'd like to incorporate any of these models or versions you've trained into your own app, head over to [Fritz](https://fritz.ai/?utm_source=github&utm_campaign=fritz-models). SDKs are available for both iOS and Android.
-
-## Additional resources
-
-Additional, [non-code resources](resources/README.md) for machine learning and AI.
-
-- [Mobile ML GitHub Repositories](resources/mobile_ml_github_repositories.md): A list of repos with machine learning models ready for mobile, organized by feature type.
-- [AI and ML Landscape](resources/AI_Landscape.md): Our curated list of helpful products and services for AI and machine learning.
-- [AI and ML Newsletters](resources/AI_ML_Newsletters.md): A list of relevant newsletters in AI and machine learning.
-- [Mobile Development Newsletters](resources/Mobile_Newsletters.md): A list of relevant newsletters in iOS, Android, React Native, and Cross Platform development.
-- [Data Science Newsletters](resources/Data_Science_Newsletters.md): A list of relevant data science and data analytics newsletters.
-- [Facebook Groups for AI/ML, Mobile, and Data Science](resources/AI_ML_Mobile_Facebook_Groups.md): A list of AI/ML, mobile dev, and data science Facebook communities.
 
 ## A note about large files
 
@@ -60,5 +49,5 @@ To keep tabs on what we’re up to, and for an inside look at the opportunities,
 For any questions or issues, you can:
 
 - Submit an issue on this repo
-- Go to our [Help Center](https://docs.fritz.ai/help-center/index.html?utm_source=github&utm_campaign=fritz-models)
+- Visit our [Support Forum](https://support.fritz.ai/?utm_source=github&utm_campaign=fritz-models)
 - Message us directly in [Slack](https://fritz.ai/slack?utm_source=github&utm_campaign=fritz-models)
