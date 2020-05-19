@@ -6,7 +6,7 @@ Models in this repository contain code and utilities for training models as well
 
 ## Fritz AI
 
-Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think. Get started quickly with [our pre-trained APIs](https://www.fritz.ai/product/pretrained.html?utm_source=github&utm_campaign=fritz-models, or use [our end-to-end platform](https://www.fritz.ai/product/platform.html?utm_source=github&utm_campaign=fritz-models) to build and deploy your own custom models.
+Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think. Get started quickly with [our pre-trained APIs](https://www.fritz.ai/product/pretrained.html?utm_source=github&utm_campaign=fritz-models, or use [our end-to-end platform](https://www.fritz.ai/product/studio.html?utm_source=github&utm_campaign=fritz-models) to build and deploy your own custom models.
 
 If you're ready to start building mobile apps powered by ML, [sign up](https://www.fritz.ai/pricing/?utm_source=github&utm_campaign=fritz-models) for a free Fritz AI account.
 
