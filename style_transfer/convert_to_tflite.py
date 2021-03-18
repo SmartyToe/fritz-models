@@ -15,8 +15,8 @@ try:
 except:
     raise Exception('You must use TensorFlow 1.13 or higher.')
 
-from style_transfer import models
-from style_transfer import tf_utils
+from transfer import models
+from transfer import tf_utils
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)

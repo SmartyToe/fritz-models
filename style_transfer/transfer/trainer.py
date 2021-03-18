@@ -6,10 +6,10 @@ import keras
 import numpy
 from tensorflow.python.lib.io import file_io
 
-from style_transfer import models
-from style_transfer import layers
-from style_transfer import utils
-from style_transfer import dataset_builder
+from transfer import models
+from transfer import layers
+from transfer import utils
+from transfer import dataset_builder
 
 logger = logging.getLogger('trainer')
 

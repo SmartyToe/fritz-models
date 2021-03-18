@@ -3,10 +3,10 @@ import keras_contrib
 import logging
 import sys
 
-from style_transfer import layer_converters
-from style_transfer import layers
-from style_transfer import models
-from style_transfer.fritz_coreml_converter import FritzCoremlConverter
+from transfer import layer_converters
+from transfer import layers
+from transfer import models
+from transfer.fritz_coreml_converter import FritzCoremlConverter
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('convert_to_coreml')

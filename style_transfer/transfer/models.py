@@ -2,8 +2,8 @@ import keras
 import keras_contrib
 import logging
 
-from style_transfer import layers
-from style_transfer import utils
+from transfer import layers
+from transfer import utils
 
 logger = logging.getLogger('models')
 

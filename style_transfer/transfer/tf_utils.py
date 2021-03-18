@@ -8,7 +8,7 @@ from tensorflow.python.tools import freeze_graph
 from tensorflow.python.tools import optimize_for_inference_lib
 from tensorflow.python.framework import dtypes
 
-from style_transfer import models
+from transfer import models
 
 logger = logging.getLogger(__name__)
 
